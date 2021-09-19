@@ -1,0 +1,7 @@
+server/dist
+server/node_modules
+server/.env
+server/.env.example
+server/ormconfig.json
+server/ormconfig.json.example
+*.txt
